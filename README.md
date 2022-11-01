@@ -5,7 +5,7 @@ digiQuack is an easy DuckyScript to DigiSpark payload converter based on C++. It
 
 
 ## Instructions - Online (Recommended) 🌐
-You can use digiQuack by visiting the [converter website](https://cedarctic.github.io/digiQuack/).
+You can use digiQuack by visiting the [converter website](https://wobegone.github.io/digiQuack/).
 
 ## Instructions - Local 💻
 ![screenshot](/images/screenshot.png)
@@ -18,28 +18,17 @@ Just download one of the releases or download the source (digiQuack.cpp) and com
 
 The converted file will be placed in the scripts' directory (or for macOS under the user directory) and will be named converted.txt. You can then follow seytonic's tutorial (in the credits) to install it on your digispark.
 
-## Video Tutorial on using the tool locally:
-
-[![Convert Ducky Scripts to Digispark](https://img.youtube.com/vi/YXWxEzLHXuw/0.jpg)](https://www.youtube.com/watch?v=YXWxEzLHXuw)
 
 ## Downloads
 
-See the releases page to get the latest version: https://github.com/CedArctic/digiQuack/releases/ 
+See the releases page to get the latest version: https://github.com/wobegone/Dukyspark/releases/ 
 
 ## Digispark Scripts
 
 In case you want to play around with some of my Digispark scripts, you can find them here:
->https://github.com/CedArctic/DigiSpark-Scripts
+>https://github.com/wobegone/DigiSpark-Scripts
 
 ## Convert to Python Scripts
 
 Want to convert Ducky Scripts to Python applications? Check out ducky2python:
->https://github.com/CedArctic/ducky2python
-
-## Credits/Resources
-- Keyboard usage IDs: www.usb.org/developers/hidpage/Hut1_12v2.pdf
-- Seytonic's tutorial: https://www.youtube.com/watch?v=fGmGBa-4cYQ
-- Kevin Mitnik for pointing out the 'F' improvement: https://www.youtube.com/watch?v=IRSK_DNYL8Q
-- hak5darren for the USB Rubber Ducky Documentation: https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
-- Digistump for the DigiSpark and their documentation: https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h
-- AntyStewie for optimizations
+>https://github.com/wobegone/ducky2python
