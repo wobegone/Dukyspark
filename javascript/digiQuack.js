@@ -13,7 +13,7 @@ print("  __| |_   _  ___| | ___   _|___ \\ _ __  _   _| |_| |__   ___  _ __  ")
 print(" / _` | | | |/ __| |/ / | | | __) | '_ \\| | | | __| '_ \\ / _ \\| '_ \\ ")
 print("| (_| | |_| | (__|   <| |_| |/ __/| |_) | |_| | |_| | | | (_) | | | |")
 print(" \\__,_|\\__,_|\\___|_|\\_\\\\__, |_____| .__/ \\__, |\\__|_| |_|\\___/|_| |_|")
-print("                       |___/      |_|    |___/ \tby CedArctic                 ")
+print("                       |___/      |_|    |___/ \tby wobegone                ")
 print("\n\n")
 
 */
@@ -24,7 +24,7 @@ function convert(){
 	var digisparkScript = "";
 
 	// Write module imports to output file:
-	digisparkScript += "// Converted using digiQuack by CedArctic (https://github.com/CedArctic/digiQuack) \n\n";
+	digisparkScript += "// Converted using Duckyspark by Wobegone (https://github.com/wobegone/Dukyspark) \n\n";
 	digisparkScript +="#include \"DigiKeyboard.h\"\n\n";
 	digisparkScript += "void setup() {}\n\n";
 	digisparkScript += "void loop() {\n";
